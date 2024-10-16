@@ -6,4 +6,4 @@
 I ask you(Poet Ahn Do-hyun) #[ADD]: 너에게 묻는다 영문 제목 추가
 
 Do not kick a briquette with your foot
-Have you ever been a passionate person to someone?
+Have you ever been a passionate person to someone? #[ADD]: 너에게 묻는다 영문 문장 추가
